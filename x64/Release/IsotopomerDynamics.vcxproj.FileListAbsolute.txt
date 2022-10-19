@@ -1,0 +1,2 @@
+C:\Workplace\C++\professorGIThub\Six_MassIsotopmerDynamics\MassIsotopomerDynamics\x64\Release\IsotopomerDynamics.vcxproj.AssemblyReference.cache
+C:\Workplace\C++\professorGIThub\Six_MassIsotopmerDynamics\MassIsotopomerDynamics\x64\Release\IsotopomerDynamics.dll
